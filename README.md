@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Hi, I'm Sankeethan<br><br>I'm a passionate Full Stack Developer with a focus on building scalable web, and mobile applications and creative digital solutions. I enjoy working across the stack — from designing intuitive frontends to developing robust backends and integrating powerful APIs. I'm always exploring modern technologies and working on real-world projects that make an impact.<br><br>🚀 Tech Stack: Next.js, Django, Supabase, PostgreSQL, Tailwind CSS, PHP, PrestaShop  <br>🛠️ Currently Working On: Image processing pipelines, e-commerce solutions, and AI-enhanced platforms  <br>🌐 Always learning, building, and sharing.<br><br>Let's connect and collaborate!<br>
-About me - (https://sankeethantharmathayalan.vercel.app/)
+👋 Hi, I'm Sankeethan<br><br>I'm a passionate Full Stack Developer with a focus on building scalable web, and mobile applications and creative digital solutions. I enjoy working across the stack — from designing intuitive frontends to developing robust backends and integrating powerful APIs. I'm always exploring modern technologies and working on real-world projects that make an impact.<br><br>🚀 Tech Stack: Next.js, TypeScript, Django, Supabase, PostgreSQL, Tailwind CSS, PHP, Express.js, React.js  <br>🛠️ Currently Working On: Image processing pipelines, e-commerce solutions, and AI-enhanced platforms  <br>🌐 Always learning, building, and sharing.<br><br>Let's connect and collaborate!<br>
+About me - <a href="https://sankeethantharmathayalan.vercel.app/">Visit my Portfolio</a>
 
 
 ## 🌐 Socials:
