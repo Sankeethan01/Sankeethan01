@@ -1,6 +1,6 @@
 # Hi there, I'm Sankeethan 👋💫
 
-**Full Stack Software Engineer | DevOps Enthusiast | AI/ML Explorer**
+**Full Stack Software Engineer | DevOps & Cloud Enthusiast | AI/ML Explorer**
 
 I am a passionate Full Stack Developer focused on building scalable web and mobile applications. Currently, I'm honing my skills as a Software Engineer Intern, where I bridge the gap between intuitive front-end experiences and robust back-end architectures. I thrive on solving real-world problems through clean code and modern DevOps practices.
 
